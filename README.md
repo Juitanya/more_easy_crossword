@@ -1,2 +1,2 @@
 # more_easy_crossword
-For hack the crossword V2.
+For hacking the crossword V2.
